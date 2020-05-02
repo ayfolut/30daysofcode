@@ -1,2 +1,2 @@
-# 30DaysofCode Challenge
-Day 1 Submission
+# Day 1
+30DaysofCode Challenge
